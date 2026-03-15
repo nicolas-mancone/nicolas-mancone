@@ -5,7 +5,7 @@
 
 I’m a Gameplay and Systems Programmer based in Rome. I'm currently finishing my studies at ITS Academy 'Roberto Rossellini', where I’ve spent most of my time digging into Unreal Engine 5. I’ve always been interested in what happens 'under the hood'—I don't just want to make things work, I want to understand the logic and the systems behind them. 
 
-I mainly work with C++ and Blueprints, focusing on networking, AI, and physics-based logic. Right now, I’m looking for a Junior role or an internship to start my professional career in a dev team.
+I mainly work with C++ and Blueprints, focusing on gameplay systems, networking, and AI. Right now, I’m looking for a Junior role or an internship to start my professional career in a dev team.
 
 ---
 
