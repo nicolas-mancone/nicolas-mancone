@@ -29,6 +29,9 @@ I mainly work with C++ and Blueprints, focusing on networking, AI, and physics-b
 ---
 
 ### 🎭 Gala Nightmare
+
+<img align="right" src="https://github.com/user-attachments/assets/bca6691d-6677-44bf-b857-b841e6bb8498" alt="Gala Gameplay" width="350">
+
 > Developed in 48 hours for the **Global Game Jam 2026** (Theme: "Mask"), *Gala Nightmare* is a 2-player local co-op action game. Players survive waves of enemies by collecting masks that grant unique abilities, leading up to a final PVP duel.
 
 **My Roles & Responsibilities:**
@@ -37,9 +40,7 @@ I mainly work with C++ and Blueprints, focusing on networking, AI, and physics-b
 * **Mask Power-up System:** Engineering the logic for collecting and swapping masks, including the real-time application of different combat stats and abilities.
 * **Shared Camera & Input:** Building a dynamic camera system to keep both players in view and managing multiple gamepad inputs.
 
-
-<p align="center">  <img src="https://github.com/user-attachments/assets/bca6691d-6677-44bf-b857-b841e6bb8498" alt="Gala Gameplay" width="450"></p>
-🔗 [View Repository](INSERISCI_LINK_REPO_GALA)
+🔗 [View Repository](https://github.com/nicolas-mancone/Gala-Nightmares-Systems-Showcase)
 
 ---
 
