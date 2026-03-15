@@ -28,8 +28,8 @@ I mainly work with C++ and Blueprints, focusing on networking, AI, and physics-b
 
 ---
 
-### 🎭 Gala Nightmares
-> Developed in 48 hours for the **Global Game Jam 2026** (Theme: "Mask"), *Gala Nightmares* is a 2-player local co-op action game. Players survive waves of enemies by collecting masks that grant unique abilities, leading up to a final PVP duel.
+### 🎭 Gala Nightmare
+> Developed in 48 hours for the **Global Game Jam 2026** (Theme: "Mask"), *Gala Nightmare* is a 2-player local co-op action game. Players survive waves of enemies by collecting masks that grant unique abilities, leading up to a final PVP duel.
 
 **My Roles & Responsibilities:**
 * **Character & Movement:** Developing the core movement logic and local multiplayer framework for a seamless 2-player experience.
@@ -37,13 +37,14 @@ I mainly work with C++ and Blueprints, focusing on networking, AI, and physics-b
 * **Mask Power-up System:** Engineering the logic for collecting and swapping masks, including the real-time application of different combat stats and abilities.
 * **Shared Camera & Input:** Building a dynamic camera system to keep both players in view and managing multiple gamepad inputs.
 
-![Gala Nightmares Gameplay]()
+
+<p align="center">  <img src="https://github.com/user-attachments/assets/bca6691d-6677-44bf-b857-b841e6bb8498" alt="Gala Gameplay" width="450"></p>
 🔗 [View Repository](INSERISCI_LINK_REPO_GALA)
 
 ---
 
 ### 🤠 Western Horde Shooter
-*(Qui andrai a incollare il testo del README tecnico che avevamo già preparato per questo progetto)*
+
 
 🔗 [View Repository](https://github.com/Babbeo11/Technical-Animation-Project)
 
