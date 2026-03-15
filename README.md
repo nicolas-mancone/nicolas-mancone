@@ -13,16 +13,19 @@ I mainly work with C++ and Blueprints, focusing on networking, AI, and physics-b
 
 ### ⏳ Chrono:Switch
 
-> A first-person multiplayer puzzle-platformer built in **C++ and Unreal Engine 5.7**. The core mechanic revolves around two players collaborating across parallel timelines (Past and Future) to solve environmental puzzles through physics-based causality.
+> A co-op puzzle platformer built in Unreal Engine 5. The core mechanic revolves around two players collaborating across different timelines (Past and Future) to solve environmental puzzles.
 
 **My Roles & Responsibilities:**
-* **$O(1)$ Collision Masking:** Developed a highly optimized modular framework where the Character handles timeline transitions by updating capsule responses to custom channels (`ECC_Past`/`ECC_Future`), bypassing heavy world-actor toggling.
-* **Networked Async Physics:** Engineered stable, synchronized interactions for `CausalActor` objects across timelines, utilizing custom "spring" logic within the **Async Physics Tick** to ensure deterministic server-side consistency.
-* **Movement Prediction & Correction:** Implemented robust client-side prediction, dynamically flushing the Character Movement Component (CMC) buffer during timeline shifts to prevent rubber-banding artifacts.
-* **Game Direction & Visual State:** Designed the core mechanics and tied C++ logic directly to Material Parameter Collections (MPC), shifting the global color palette (Blue for Past, Orange for Future) and post-process lighting in real-time.
+* **Game Direction & Design:** Defining the core concept and designing the levels to align with the dual-timeline mechanics.
+* **Multiplayer Networking & Replication:** Implementing a server-authoritative framework using RPCs and client-side prediction to ensure synchronized timeline states and seamless player interaction across the network.
+* **Modular Actor Framework:** Developing a designer-friendly system to manage multi-state objects, handling mesh and collision updates directly within the editor.
+* **Networked Physics:** Engineering stable, synchronized physical interactions and custom "spring" logic within the **Async Physics Tick** to ensure server-side consistency.
+* **Rendering & Optimization:** Resolving shadow artifacts on dynamic materials by managing `ShadowCache` invalidation behaviors at runtime.
 
 **Key Features:**
-* $O(1)$ Timeline Switching | Async Physics Synchronization | CMC Prediction Validation
+* Seamless Timeline Switching
+* Causal Physics Interaction
+* Modular Technical Toolkit
 
 🔗 [View Repository](https://github.com/nicolas-mancone/ChronoSwitch)
 
