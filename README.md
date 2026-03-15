@@ -53,9 +53,9 @@ I mainly work with C++ and Blueprints, focusing on networking, AI, and physics-b
 
 ### 🤖 ShapeKiller (AI State Tree)
 
-<a href="https://github.com/nicolas-mancone/ShapeKiller">
+<!---<a href="https://github.com/nicolas-mancone/ShapeKiller">
   <img align="right" src="https://github.com/user-attachments/assets/3c1cb1a8-d4bf-4735-ab4e-885b146d99e0" alt="ShapeKiller State Tree Architecture" width="350" style="margin-left: 20px;">
-</a>
+</a>--->
 
 > A stealth AI prototype developed to explore the capabilities of Unreal Engine 5's experimental State Trees and Environment Query System (EQS) within a dynamic "Prop Hunt" environment.
 
@@ -71,9 +71,9 @@ I mainly work with C++ and Blueprints, focusing on networking, AI, and physics-b
 
 ### 🦾 Technical Animation Prototype
 
-<a href="https://github.com/nicolas-mancone/Technical-Animation-Project">
+<!---<a href="https://github.com/nicolas-mancone/Technical-Animation-Project">
   <img align="left" src="https://github.com/user-attachments/assets/b636c62c-651c-4dd4-9d03-54fb3412bbd5" alt="AnimGraph Architecture" width="350" style="margin-right: 20px;">
-</a>
+</a>--->
 
 > A student project developed to explore the core pipelines of Technical Animation and Data-Driven Systems in Unreal Engine 5, focusing on modularity and procedural adjustments.
 
