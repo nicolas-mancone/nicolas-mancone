@@ -3,9 +3,9 @@
 
 📧 [nicolas.mancone11@gmail.com](mailto:nicolas.mancone11@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-mancone-292497198/) &nbsp;|&nbsp; 📄 [Download CV](https://github.com/user-attachments/files/26008392/CV_Mancone_Nicolas.pdf)
 
-I’m a Gameplay and Systems Programmer based in Rome. I'm currently finishing my studies at ITS Academy 'Roberto Rossellini', where I’ve spent most of my time digging into Unreal Engine 5. I’ve always been interested in what happens 'under the hood'—I don't just want to make things work, I want to understand the logic and the systems behind them. 
+I grew up watching my father play PC games, but it wasn’t until I played Abiotic Factor in 2024 that I felt the spark to move from player to developer. I was so inspired by the quality and communication behind that project that I started teaching myself Unreal Engine even before enrolling at ITS Academy 'Roberto Rossellini'.
 
-I mainly work with C++ and Blueprints, focusing on gameplay systems, networking, and AI. Right now, I’m looking for a Junior role or an internship to start my professional career in a dev team.
+In the process, I realized that my real passion lies in the "doing"—making a world interactive. I love the logic of gameplay systems and the challenge of building modular tools that are intuitive for designers to use, while hiding technical complexity under the hood. Currently, I’m focusing on C++, gameplay systems, networking, and AI, and I’m looking for a Junior role or internship to start my professional career in a dev team.
 
 ---
 
